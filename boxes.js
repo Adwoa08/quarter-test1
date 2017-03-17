@@ -12,7 +12,6 @@ $(document).ready(function () {
     }
 
     
-//coment
     $('.container').append(container);
 
     $("#pink-box").click(function () {
