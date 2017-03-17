@@ -11,6 +11,8 @@ $(document).ready(function () {
         container += '</div>';
     }
 
+    
+//coment
     $('.container').append(container);
 
     $("#pink-box").click(function () {
